@@ -1,0 +1,52 @@
+body {            
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+  }
+/*--- navigation bar ---*/
+.navbar {
+    background:#222222;
+  }
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  .nav-link:hover {
+    color: blue;
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+  }
+  .footer-copyright {
+    color: #666;
+    padding: 40px 0;
+  }
+  .img{
+    display: block;
+    margin-left: 450px;
+    margin-top: 40px;
+    width: 50%; 
+    margin-bottom: 40px;
+  }
+  .about h2 {
+    margin-top: 50px;
+    margin-left: 650px;
+    font-size: 50px;
+  }
+  .about h5{
+    margin-left: 200px;
+    margin-right:200px;
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 25px;
+    line-height: 50px;
+  }

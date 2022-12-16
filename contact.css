@@ -1,0 +1,119 @@
+body {            
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+  }
+/*--- navigation bar ---*/
+.navbar {
+    background:#222222;
+  }
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  .nav-link:hover {
+    color: blue;
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+  }
+  .footer-copyright {
+    color: #666;
+    padding: 40px 0;
+  }
+
+.contUs h2{
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+  .contUs h3{
+      font-size: 20px;
+  }
+
+.contact {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+  .contact img {
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      
+  }
+
+  .contact1 {
+    margin-top: -283px;
+    margin-left: 630px;
+}
+
+  .contact1 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.contact2 {
+    margin-top: -283px;
+    margin-left: 1100px;
+}
+
+.contact2 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.contact3 {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+  .contact3 img {
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      
+  }
+
+  .contact4 {
+    margin-top: -283px;
+    margin-left: 630px;
+}
+
+  .contact4 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.contact5 {
+    margin-top: -283px;
+    margin-left: 1100px;
+}
+
+.contact5 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+}
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+  }
+  .footer-copyright {
+    color: #666;
+    padding: 40px 0;
+  }

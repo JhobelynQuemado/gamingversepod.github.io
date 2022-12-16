@@ -1,0 +1,50 @@
+body {            
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+  }
+/*--- navigation bar ---*/
+.navbar {
+    background:#222222;
+  }
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  .nav-link:hover {
+    color: blue;
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  .footer-copyright {
+    color: #666;
+    padding: 40px 0;
+  }
+
+  .event h2{
+      margin-top: 40px;
+      margin-left:100px;
+  }
+  .event h3{
+      font-size: 20px;
+      margin-top: 40px;
+      margin-left: 200px;
+      margin-right: 200px;
+      margin-bottom: 40px;
+      text-align: justify;
+      line-height: 35px;
+  }
